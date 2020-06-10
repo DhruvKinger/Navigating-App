@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.yellow,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: ArtRoute(art: ArtUtil.IMG_MONET,),
+      home: ArtRoute(art: ArtUtil.IMG_VANGOGH,),
     );
   }
 }
